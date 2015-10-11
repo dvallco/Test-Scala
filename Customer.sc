@@ -1,4 +1,4 @@
-class Customer(var fullName: String, orderValue: Double) {
+class Customer(var fullName: String,orderValue: Double) {
   def this(fullName: String) {
     this(fullName, 1850)
   }
@@ -13,8 +13,8 @@ class Customer(var fullName: String, orderValue: Double) {
     println(s"Address =  $address")
   }
 
-  def calculateOrderTaxValue(orderValue: Double) = {
-    var tax = orderValue * .05;tax
+  def calculateOrderTaxValue(overValue: Double) = {
+    var tax = orderValue * .05
   }
 
   printAddress
@@ -24,4 +24,10 @@ class Customer(var fullName: String, orderValue: Double) {
 }
 
 var customer =  new Customer("Paco",1850)
+customer.fullName = "changing property"
+customer.age = 44
+println("age changed " + customer.age)
+
+
+
 println(customer.calculateOrderTaxValue(1850))
