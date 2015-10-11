@@ -3,6 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="88b9bcb7-543e-4d0b-8303-d87ea0d4fc34" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/MyScalaWorkSheet.sc" afterPath="$PROJECT_DIR$/MyScalaWorkSheet.sc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="Test-Scala.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -27,8 +29,8 @@
       <file leaf-file-name="MyScalaWorkSheet.sc" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/MyScalaWorkSheet.sc">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.02388535">
-              <caret line="1" column="0" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+            <state vertical-scroll-proportion="0.0955414">
+              <caret line="4" column="1" selection-start-line="4" selection-start-column="1" selection-end-line="4" selection-end-column="1" />
               <folding />
             </state>
           </provider>
@@ -56,6 +58,13 @@
       <list>
         <option value="$PROJECT_DIR$/MyScalaWorkSheet.sc" />
       </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="Bundled (Maven 3)" />
+      </MavenGeneralSettings>
     </option>
   </component>
   <component name="NamedScopeManager">
@@ -213,6 +222,9 @@
     </option>
   </component>
   <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="88b9bcb7-543e-4d0b-8303-d87ea0d4fc34" name="Default" comment="" />
@@ -261,8 +273,8 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/MyScalaWorkSheet.sc">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.02388535">
-          <caret line="1" column="0" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+        <state vertical-scroll-proportion="0.0955414">
+          <caret line="4" column="1" selection-start-line="4" selection-start-column="1" selection-end-line="4" selection-end-column="1" />
           <folding />
         </state>
       </provider>
